@@ -12,7 +12,10 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        
         print("Hellow World!")
+        
+        print("Map")
     }
 
     override func didReceiveMemoryWarning() {
