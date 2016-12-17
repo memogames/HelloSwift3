@@ -16,15 +16,15 @@ class ViewController: UIViewController {
         print("Hellow World!")
         
         print("Map")
+        
+        print("More")
     }
 
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
     }
-    
-    func showMessage() {
-        print("Message")
-    }
+
+
 }
 
